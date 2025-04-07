@@ -2,9 +2,9 @@
 
 Submitted by: **Rodrigo Mendoza**
 
-This web app: ****
+This web app: **WebdevUnit6**
 
-Time spent: **X** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
