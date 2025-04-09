@@ -40,7 +40,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/gallery/project6webdev-r6eNBK4.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/r6eNBK4.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+
 https://imgur.com/gallery/project6webdev-r6eNBK4
 
 <!-- Replace this with whatever GIF tool you used! -->
