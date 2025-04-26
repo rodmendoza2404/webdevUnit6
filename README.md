@@ -42,7 +42,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/ViWxhiF.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
-https://imgur.com/gallery/project6webdev-r6eNBK4
+[https://imgur.com/gallery/project6webdev-r6eNBK4](https://imgur.com/a/project6webdev-r6eNBK4)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  ScreenToGif
